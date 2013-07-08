@@ -1,4 +1,4 @@
-readme-resources
+Hey you!
 ================
 
-This is a repo for all DIBS-Payment-Serices readme files
+Nothing to see here - Keep moving. :)
